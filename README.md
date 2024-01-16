@@ -30,9 +30,9 @@ Then our business will have a golden voyage🏅.
 <br><br>
 ✨In my ship:<br>
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/search/docker">
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/search/docker">
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/search/docker">
+  <img align="center" height="50" width="50" src="">
+  <img align="center" height="50" width="50" src="">
+  <img align="center" height="50" width="50" src="">
       <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">
     <img align="center" alt="Js" height="50" width="50" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png">
     <img align="center" alt="React" height="50" width="50"  src="https://img.icons8.com/officel/144/000000/react.png">
