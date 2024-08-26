@@ -31,7 +31,6 @@ Then our business will have a golden voyage🏅.
 ✨In my ship:<br>
 <div style="display: inline_block">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Js" height="50" width="50" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png">
     <img align="center" alt="React" height="50" width="50"  src="https://img.icons8.com/officel/144/000000/react.png">
     <img align="center" alt="Vue js" height="50" width="50"  src="https://img.icons8.com/color/search/vue-js">
     <img align="center" alt="Node" height="50" width="50"  src="https://img.icons8.com/color/144/000000/nodejs.png">
