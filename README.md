@@ -41,5 +41,4 @@ Then our business will have a golden voyage🏅.
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">
-    <img align="center" alt="Docker" height="50" width="50" src="https://camo.githubusercontent.com/575b33e86739b657387aaf2598c4f9d6677a60a33718d65e11e0d81cbb7cc09c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667">
 </div>
