@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 I thrive on challenges and enjoy collaborating with other developers to tackle complex problems. My code is clean, maintainable, and follows best practices, ensuring scalable and efficient solutions. 🌟
 
-Whether it's building dynamic user interfaces, implementing RESTful APIs, or optimizing database queries, I'm always eager to expand my skills and contribute to innovative projects. Let's connect on GitHub and explore the endless possibilities of the MERN stack together! 😊
+And I have a hands-on experience of mysterious crypto world of Blockchain. I know well about EVM, smart contract, various token standardizations and Dex, DeFi, Dao, ICO and so on throughout my 3 years.
+
+Whether it's building dynamic user interfaces, implementing RESTful APIs, or optimizing database queries, I'm always eager to expand my skills and contribute to innovative projects. Let's connect on GitHub and explore the endless possibilities of the web & blockchain together! 😊
 
 ✨Hiroshi's promise:<br>
 I will complete your project as firmly as Telamon💪 and as quickly as Pegasus🦄.<br>
