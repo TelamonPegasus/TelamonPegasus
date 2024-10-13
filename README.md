@@ -42,6 +42,7 @@ Then our business will have a golden voyage🏅.
     <img alt="PHP" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">&nbsp;&nbsp;
     <img alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">&nbsp;&nbsp;
     <img alt="Ruby on Rails" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg">&nbsp;&nbsp;
+    <img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img alt="Rest API" height="50" width="50" src="https://nextbigtechnology.com/wp-content/uploads/2018/10/restapi.jpg">&nbsp;&nbsp;
     <img alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">&nbsp;&nbsp;
     <img alt="MySQL" height="50" width="50" src="https://c1.klipartz.com/pngpicture/64/828/sticker-png-mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-thumbnail.png">&nbsp;&nbsp;
