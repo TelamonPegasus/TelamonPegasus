@@ -33,14 +33,26 @@ Then our business will have a golden voyage🏅.
 ✨In my ship:<br>
 <div style="display: inline_block">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="center" alt="React" height="50" width="50"  src="https://img.icons8.com/officel/144/000000/react.png">
-    <img align="center" alt="Vue js" height="50" width="50"  src="https://img.icons8.com/color/search/vue-js">
-    <img align="center" alt="Node" height="50" width="50"  src="https://img.icons8.com/color/144/000000/nodejs.png">
-    <img align="center" alt="PHP" height="50" width="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">
-    <img align="center" alt="MY SQL" height="50" width="50" src="https://c1.klipartz.com/pngpicture/64/828/sticker-png-mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-thumbnail.png">
-    <img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">
-    <img align="center" alt="Rest API" height="50" width="50" src="https://nextbigtechnology.com/wp-content/uploads/2018/10/restapi.jpg">
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JavaScript" height="50" width="50" src="https://img.icons8.com/color/144/000000/javascript.png">
+    <img align="center" alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/144/000000/typescript.png">
+    <img align="center" alt="React" height="50" width="50" src="https://img.icons8.com/officel/144/000000/react.png">
+    <img align="center" alt="Next.js" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">
+    <img align="center" alt="Node.js" height="50" width="50" src="https://img.icons8.com/color/144/000000/nodejs.png">
+    <img align="center" alt="Nest.js" height="50" width="50" src="https://d33wubrfki0l68.cloudfront.net/a7f7459b9c165b2954f6247a70e799bd82cd63df/4e88b/img/logo-small.svg">
+    <img align="center" alt="PHP" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">
+    <img align="center" alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">
+    <img align="center" alt="Ruby on Rails" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg">
+    <img align="center" alt="Rest API" height="50" width="50" src="https://nextbigtechnology.com/wp-content/uploads/2018/10/restapi.jpg">
     <img align="center" alt="Docker" height="50" width="50" src="https://img.icons8.com/color/search/docker">
+    <img align="center" alt="Ethereum" height="50" width="50" src="https://cryptologos.cc/logos/ethereum-eth-logo.png">
+    <img align="center" alt="Solidity" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg">
+    <img align="center" alt="Hardhat" height="50" width="50" src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg">
+    <img align="center" alt="Truffle" height="50" width="50" src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png">
+    <img align="center" alt="MY SQL" height="50" width="50" src="https://c1.klipartz.com/pngpicture/64/828/sticker-png-mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-thumbnail.png">
+    <img align="center" alt="PostgreSQL" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-226047.png">
+    <img align="center" alt="MongoDB" height="50" width="50" src="https://img.icons8.com/color/144/000000/mongodb.png">
+    <img align="center" alt="Prisma" height="50" width="50" src="https://prismalens.vercel.app/header/logo-dark.svg">
 </div>
+
