@@ -38,6 +38,7 @@ Then our business will have a golden voyage🏅.
     <img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/144/000000/typescript.png">&nbsp;&nbsp;
     <img alt="React" height="50" width="50" src="https://img.icons8.com/officel/144/000000/react.png">&nbsp;&nbsp;
     <img alt="Next.js" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/next-js.svg">&nbsp;&nbsp;
+    <img alt="Tailwind CSS" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
     <img alt="Node.js" height="50" width="50" src="https://img.icons8.com/color/144/000000/nodejs.png">&nbsp;&nbsp;
     <img alt="PHP" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/1200px-Webysther_20160423_-_Elephpant.svg.png">&nbsp;&nbsp;
     <img alt="Laravel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/220px-Laravel.svg.png">&nbsp;&nbsp;
