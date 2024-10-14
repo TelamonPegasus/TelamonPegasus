@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Fahad GitHub Banner](./assets/pegasus.png)](https://github.com/TelamonPegasus)
 
 
-👋 Hey there! I'm a highly motivated MERN stack developer with a passion for crafting seamless user experiences. 💻 My GitHub profile is a showcase of my projects, where I leverage the power of React.js, Node.js, Typescript and MongoDB to build responsive and feature-rich applications. 🚀 From interactive frontends to robust backend APIs, I love exploring the full stack of web development.
+👋 Hey there! I'm a highly motivated full-stack and blockchain developer with a passion for crafting seamless user experiences. 💻 My GitHub profile is a showcase of my projects, where I leverage the power of React/Next.js, Node.js, Typescript and MongoDB to build responsive and feature-rich applications. 🚀 From interactive frontends to robust backend APIs, I love exploring the full stack of web development.
 
 I thrive on challenges and enjoy collaborating with other developers to tackle complex problems. My code is clean, maintainable, and follows best practices, ensuring scalable and efficient solutions. 🌟
 
